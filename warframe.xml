@@ -2,5 +2,4 @@
 <service>
   <port port="4950" protocol="udp"/>
   <port port="4955" protocol="udp"/>
-  <port port="6695-6699" protocol="tcp"/>
 </service>
