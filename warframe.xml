@@ -2,4 +2,12 @@
 <service>
   <port port="4950" protocol="udp"/>
   <port port="4955" protocol="udp"/>
+  <port port="4960" protocol="udp"/>
+  <port port="4965" protocol="udp"/>
+  <port port="4970" protocol="udp"/>
+  <port port="4975" protocol="udp"/>
+  <port port="4980" protocol="udp"/>
+  <port port="4985" protocol="udp"/>
+  <port port="4990" protocol="udp"/>
+  <port port="4995" protocol="udp"/>
 </service>
